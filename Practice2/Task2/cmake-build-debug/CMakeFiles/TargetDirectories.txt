@@ -1,3 +1,0 @@
-/home/user/Documents/OS/Practice2/Task2/cmake-build-debug/CMakeFiles/Task2.dir
-/home/user/Documents/OS/Practice2/Task2/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/user/Documents/OS/Practice2/Task2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
